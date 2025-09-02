@@ -1,0 +1,1 @@
+This is my very first machine learning model i followed a youtube tutorial by https://www.youtube.com/watch?v=29ZQ3TDGgRQ&t=1418s and im hopefull this will be one of many, im still not sure how this works. 
